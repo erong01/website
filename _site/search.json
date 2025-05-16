@@ -4,7 +4,14 @@
     "href": "index.html",
     "title": "Edwin Rong",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "I am an undergraduate student at Northwestern University majoring in both Statistics and Data Science with a minor in Linguistics.\nMy interests center around using data in social and behavioral sciences to make meaningful societal impact. More specifically, I am interested in data analysis and visualization within education and disability research to inform policymaking.\nI use both Python and R in my statistical work. This has involved supervised ML, unsupervised ML (dimensionality reduction, clustering), deep learning, and visualization (pyplot, seaborn, ggplot2, shiny).\nCurrently, I work as a research assistant for the Spatial Thinking and Reasoning (STAR) Lab at Northwestern on the SCubes project, which involves using engineered cubes with sensors to conduct the block design test (BDT), a cognitive assessment used to measure visual-spatial reasoning. My role involves using Python to process the raw sensor data and creating features that can be used to categorize the participants’ different strategies in completing the BDT.\nFor the summer of 2025, I have been awarded the Summer Undergraduate Research Grant from Northwestern to complete an unsupervised ML project using the BDT data involving time series clustering to categorize the participants’ strategies."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Edwin Rong",
+    "section": "Education",
+    "text": "Education\n\nNorthwestern University | Evanston, IL  B.A. in Statistics and Data Science, Minor in Linguistics | Sept 2022 - June 2026"
   },
   {
     "objectID": "about.html",
