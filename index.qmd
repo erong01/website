@@ -1,15 +1,12 @@
 ---
-title: "testing again"
+title: "Edwin Rong"
 about:
   template: solana
   image: files/placeholder_image.png
   links:
-    - icon: twitter
-      text: twitter
-      href: https://twitter.com
     - icon: github
       text: Github
-      href: https://github.com
+      href: https://github.com/erong01
 ---
 
 This is a Quarto website.
